@@ -82,4 +82,4 @@ else:
     print("It's a tie")
 
 
-print("Thanks for playing!\n " , "Created by Ali_ramezani")
+print("Thanks for playing!\n " , "Created by ya348")
