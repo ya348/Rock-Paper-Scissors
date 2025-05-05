@@ -41,7 +41,7 @@ Welcome to the classic **Rock-Paper-Scissors** game! 🪶🪨 This is a simple c
 
 1. Clone the repository or download the script.
 ```bash
-   git clone [https://github.com/yo](https://github.com/ya348/Rock-Paper-Scissors/edit/main/README.md
+   git clone https://github.com/ya348/Rock-Paper-Scissors.git
 ```
 2. Navigate to the project directory.
 ```bash
@@ -56,8 +56,9 @@ Follow the prompts to play the game.
 🎯 Contributing:
 
 Feel free to fork this project, open issues, and contribute with pull requests. Let's make this game even better! ✂️🪶🪨
-📞 Contact:
+---
 
-For any questions or suggestions, feel free to reach out at your-email@example.com.
-urusername/Rock-Paper-Scissors.git
+## 📞 Contact:
+For any questions, feel free to reach out at [usimin160@gmail.com](mailto:usimin160@gmail.com).
 
+---
