@@ -28,4 +28,3 @@ This is a simple command-line game of Rock-Paper-Scissors implemented in Python.
 4. Run the script using the command:
    ```bash
    python Rock-Paper-Scissors.py
-                                 ``` 
