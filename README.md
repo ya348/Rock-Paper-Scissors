@@ -62,3 +62,5 @@ Feel free to fork this project, open issues, and contribute with pull requests. 
 For any questions, feel free to reach out at [usimin160@gmail.com](mailto:usimin160@gmail.com).
 
 ---
+
+##Enjoy the classic game, now in your terminal! 🪨🪶✂️🎮 Let the best player win! 🏆
