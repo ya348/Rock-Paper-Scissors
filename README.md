@@ -40,8 +40,9 @@ Welcome to the classic **Rock-Paper-Scissors** game! 🪶🪨 This is a simple c
 ## 🧑‍💻 How to Run:
 
 1. Clone the repository or download the script.
-   ```bash
-   git clone https://github.com/yo
+```bash
+   git clone [https://github.com/yo](https://github.com/ya348/Rock-Paper-Scissors/edit/main/README.md
+```
 2. Navigate to the project directory.
 ```bash
    cd Rock-Paper-Scissors                        
